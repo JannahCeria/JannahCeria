@@ -7,7 +7,7 @@ I've never thought of introduce myself.
 This is about me
 
 I'm currently learning at Brawijaya University, specializing in Mathematics. I'm interested in learning Machine Learning.
-You can find me in [Markdown Guide](https://www.quora.com/profile/Jannah-Ceria)
+You can find me on [Markdown Guide](https://www.quora.com/profile/Jannah-Ceria)
 
 
 I'll write my portfolio next time. Thank You **(.◜◡◝)**
